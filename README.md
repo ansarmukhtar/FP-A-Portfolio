@@ -25,7 +25,7 @@ The analysis helps business stakeholders:
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard.png)
+![FP&A Dashboard](Dashboard.png)
 
 ---
 
