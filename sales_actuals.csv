@@ -1,0 +1,19 @@
+﻿month,region,product,unit_sold,price_per_unit,revenue,cogs
+1/1/2024,East,Product A,1500,27,40500,24300
+1/1/2024,East,Product B,1300,24,31200,18720
+1/1/2024,East,Product C,1000,23,23000,13800
+2/1/2024,East,Product A,1300,29,37700,22620
+2/1/2024,East,Product B,1100,26,28600,17160
+2/1/2024,East,Product C,850,25,21250,12750
+3/1/2024,West,Product A,1250,23,28750,17250
+3/1/2024,West,Product B,1050,22,23100,13860
+3/1/2024,West,Product C,950,24,22800,13680
+4/1/2024,West,Product A,1350,25,33750,20250
+4/1/2024,West,Product B,1200,21,25200,15120
+4/1/2024,West,Product C,1400,22,30800,18480
+5/1/2024,Central,Product A,900,26,23400,14040
+5/1/2024,Central,Product B,790,23,18170,10902
+5/1/2024,Central,Product C,840,28,23520,14112
+6/1/2024,Central,Product A,870,23,20010,12006
+6/1/2024,Central,Product B,1120,24,26880,16128
+6/1/2024,Central,Product C,1080,28,30240,18144
