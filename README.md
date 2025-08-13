@@ -25,7 +25,7 @@ The analysis helps business stakeholders:
 ---
 
 ## 📊 Dashboard Preview
-![FP&A Dashboard](Assets/fpa_dashboard.png)
+![Dashboard.png)
 
 ---
 
@@ -47,4 +47,4 @@ The analysis helps business stakeholders:
 ## 🚀 How to Use
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/fpa_case_study.git
+   git clone https://github.com/ansarmukhtar/FP-A-Portfolio.git
